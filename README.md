@@ -1,0 +1,1 @@
+This is Vanilijada's first git project.
